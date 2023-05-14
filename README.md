@@ -1,6 +1,8 @@
+# Personal Portfolio v1.0.0
+
+![My project](https://github.com/Shamss35/shamyaharia.github.io/assets/99024751/8bb1e2e0-5728-45c5-8966-37de0eba999e)
+
 # shamyaharia.github.io
-Portfolio Website
-![cover](https://github.com/Shamss35/shamyaharia.github.io/assets/99024751/21764080-dfd5-48db-bf3d-5039b9c587f2)
 
 Features 📋
 ⚡️ Fully Responsive
@@ -18,7 +20,7 @@ Sections 📚
 ✔️ Footer
 
 Tools Used 🛠️
-GitHub Pages - To host my static website (HTML, CSS, JS).
-Font Awesome - A font and icon toolkit based on CSS.
-Iconscout - Ready-to-use high-quality SVG icons.
-Swiper.js - JavaScript Library
+ -GitHub Pages - To host my static website (HTML, CSS, JS).
+ -Font Awesome - A font and icon toolkit based on CSS.
+ -Iconscout - Ready-to-use high-quality SVG icons.
+ -Swiper.js - JavaScript Library
