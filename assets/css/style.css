@@ -461,6 +461,12 @@ button {
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
 }
+.nodeskills_name {
+  text-align: right;
+  margin-bottom: 5%;
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+}
 
 .single_skill_icon {
   color: var(--first-color);
