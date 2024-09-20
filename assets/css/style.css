@@ -476,7 +476,11 @@ button {
 .external-logo {
   width: var(--h1-font-size);
 }
-
+.sketchup-logo {
+  width: 40px;
+  height: auto;
+  vertical-align:top;
+}
 
 .skills_bar {
   height: 5px;
